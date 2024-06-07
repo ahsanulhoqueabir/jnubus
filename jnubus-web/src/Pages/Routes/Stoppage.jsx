@@ -4,7 +4,7 @@ import useAxiosPublic from "../../Hooks/useAxiosPublic";
 import LoadingPage from "../LoadingPage";
 const MapEmbed = ({ latitude, longitude, name }) => {
   return (
-    <div style={{ width: "600px", height: "400px" }}>
+    <div className="h-72 ">
       <iframe
         title={`Embeded map of ${name}`}
         width="100%"
@@ -41,22 +41,29 @@ const Stoppage = () => {
     return <LoadingPage />;
   }
   return (
-    <div className="py-10 px-5 lg:px-20">
+    <div className="lg:py-10 px-5 lg:px-20">
       <div className="flex justify-center">
         <h1 className="text-3xl font-bold">
           Stoppage Details : {stoppage.name}{" "}
         </h1>
       </div>
-      <section className="py-10 lg:flex gap-5">
-        <div>
+      <section className="py-10 space-y-6 lg:space-y-0 lg:flex gap-5">
+        <div className="w-full">
           <MapEmbed
             latitude={stoppage.location.lat}
             name={stoppage.name}
             longitude={stoppage.location.lng}
           />
+          <div>
+            {stoppage.photos.map((photo) => (
+              <div>
+                <img src={photo} alt="" />
+              </div>
+            ))}
+          </div>
         </div>
-        <div>
-          <h1 className="text-2xl font-bold flex justify-center mx-auto">
+        <div className="w-full">
+          <h1 className="lg:text-2xl font-bold flex justify-center mx-auto">
             Bus Passes by this Stoppage ({stoppage.buses.length})
           </h1>
           <div>

@@ -47,7 +47,7 @@ const Buses = () => {
       >
         <Lottie animationData={animationData} />
       </div> */}
-      <section className="py-10">
+      <section className="py-10 px-2">
         <div className="grid grid-cols-1 gap-2 lg:w-1/2 mx-auto">
           {buses.map((bus) => (
             <BusCard bus={bus} key={bus._id} />
