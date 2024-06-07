@@ -13,7 +13,7 @@
 
 ## Mobile Application
 
-<a href="https://jnu-bus.netlify.app/">Download (Will be added soon) </a>
+<a href="https://jnu-bus.netlify.app/">Download (Will be added after collecting all info) </a>
 
 ## Server Side
 
