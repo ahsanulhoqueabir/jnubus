@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import useAxiosPublic from "../../Hooks/useAxiosPublic";
 import LoadingPage from "../LoadingPage";
-import DriverDetails from "./driverDetails";
+import DriverDetails from "./DriverDetails";
 import RoutesDetails from "./RoutesDetails";
 
 const BusDetails = () => {
