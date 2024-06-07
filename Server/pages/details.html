@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bus Details</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/daisyui@4.11.1/dist/full.min.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script
+      src="https://kit.fontawesome.com/09cd734a72.js"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="./styles/timeline.css" />
+    <style>
+      .loader {
+        border: 16px solid #f3f3f3;
+        border-radius: 50%;
+        border-top: 16px solid #3498db;
+        width: 120px;
+        height: 120px;
+        animation: spin 2s linear infinite;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        display: none;
+      }
+
+      @keyframes spin {
+        0% {
+          transform: rotate(0deg);
+        }
+        100% {
+          transform: rotate(360deg);
+        }
+      }
+
+      .hidden {
+        display: none;
+      }
+
+      .visible {
+        display: block;
+      }
+    </style>
+  </head>
+  <body class="bg-blue-50 min-h-screen">
+    <div id="loader" class="loader"></div>
+    <main>
+      <section class="lg:w-1/2 mx-auto">
+        <div class="flex justify-center">
+          <button id="down" class="udbtn w-full text-white bg-green-500 py-2">
+            DOWN
+          </button>
+          <button id="up" class="udbtn w-full text-white bg-red-500 py-2">
+            UP
+          </button>
+        </div>
+        <div class="timeline left flex justify-center">
+          <div class="outer" id="bus-details"></div>
+        </div>
+      </section>
+    </main>
+
+    <!-- All js file  -->
+  </body>
+  <script src="./js/detailsShow.js"></script>
+</html>

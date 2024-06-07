@@ -1,0 +1,5386 @@
+[
+  {
+    "location": {
+      "lat": 23.660504,
+      "lng": 90.359314
+    },
+    "_id": "6655bcce2dd5f8f298cb857d",
+    "name": "Abdullahpur Babu Bazar",
+    "buses": [],
+    "photos": [],
+    "status": "active"
+  },
+  {
+    "location": {
+      "lat": 23.87781,
+      "lng": 90.401283
+    },
+    "_id": "6655bcce2dd5f8f298cb857e",
+    "name": "Abdullapur Tongi",
+    "buses": [],
+    "photos": [],
+    "status": "active"
+  },
+  {
+    "location": {
+      "lat": 23.7546684,
+      "lng": 90.4155922
+    },
+    "_id": "665625a77515574558b96fee",
+    "name": "Abul Hotel",
+    "buses": [
+      {
+        "_id": "6655e3fb6089a7fb20814c06",
+        "name": "Dhumketu",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8626",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "ধূমকেতু",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T18:42:47.910Z",
+    "updatedAt": "2024-05-28T18:51:42.400Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.77394,
+      "lng": 90.362028
+    },
+    "_id": "6655bcce2dd5f8f298cb857f",
+    "name": "Adabar",
+    "buses": [],
+    "photos": [],
+    "status": "active"
+  },
+  {
+    "location": {
+      "lat": 23.77792,
+      "lng": 90.380287
+    },
+    "_id": "6655bcce2dd5f8f298cb8580",
+    "name": "Agargaon",
+    "buses": [
+      {
+        "_id": "6655e1fd6089a7fb20814bec",
+        "name": "Onirban-1",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df086089a7fb20814bce",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "অনির্বান-১",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e4486089a7fb20814c0a",
+        "name": "Onirban",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8629",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "অনির্বাণ",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T19:10:19.430Z"
+  },
+  {
+    "location": {
+      "lat": 23.852053,
+      "lng": 90.407251
+    },
+    "_id": "6655bcce2dd5f8f298cb8581",
+    "name": "Airport",
+    "buses": [
+      {
+        "_id": "6655e1666089a7fb20814be6",
+        "name": "Ulka-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dea06089a7fb20814bc6",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "উল্কা-০২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e1a86089a7fb20814be8",
+        "name": "Ulka-3",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655def06089a7fb20814bcc",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "উল্কা-০৩",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e3b96089a7fb20814c04",
+        "name": "Ulka-4",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8635",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "উল্কা-৪",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T18:40:04.149Z"
+  },
+  {
+    "location": {
+      "lat": 23.731486,
+      "lng": 90.420922
+    },
+    "_id": "6655bcce2dd5f8f298cb8582",
+    "name": "Arambagh",
+    "buses": [
+      {
+        "_id": "6655e2f26089a7fb20814bfa",
+        "name": "Projonmo-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dfea6089a7fb20814bdc",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "প্রজন্ম-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T18:23:22.478Z"
+  },
+  {
+    "location": {
+      "lat": 23.760716,
+      "lng": 90.372657
+    },
+    "_id": "6655bcce2dd5f8f298cb8583",
+    "name": "Asad Gate",
+    "buses": [
+      {
+        "_id": "6655e2216089a7fb20814bee",
+        "name": "Uttaron",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df236089a7fb20814bd0",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "উত্তরণ",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e23d6089a7fb20814bf0",
+        "name": "Durjoy",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df3e6089a7fb20814bd2",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "দুর্জয়",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e974bdab81413f69e5ee",
+        "name": "Turag",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8638",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "তুরাগ",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T19:54:28.659Z"
+  },
+  {
+    "location": {
+      "lat": 23.868024,
+      "lng": 90.400123
+    },
+    "_id": "6655bcce2dd5f8f298cb8584",
+    "name": "Azampur Uttara",
+    "buses": [
+      {
+        "_id": "6655e1a86089a7fb20814be8",
+        "name": "Ulka-3",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655def06089a7fb20814bcc",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "উল্কা-০৩",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T16:47:13.392Z"
+  },
+  {
+    "location": {
+      "lat": 23.727562,
+      "lng": 90.386142
+    },
+    "_id": "6655bcce2dd5f8f298cb8585",
+    "name": "Azimpur",
+    "buses": [
+      {
+        "_id": "6655e2216089a7fb20814bee",
+        "name": "Uttaron",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df236089a7fb20814bd0",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "উত্তরণ",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e23d6089a7fb20814bf0",
+        "name": "Durjoy",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df3e6089a7fb20814bd2",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "দুর্জয়",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e2b86089a7fb20814bf8",
+        "name": "Chandramukhi-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dfb16089a7fb20814bda",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "চন্দ্রমূখী-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e37b6089a7fb20814c00",
+        "name": "Bijoy-1",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df636089a7fb20814bd6",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "বিজয়-১",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e38e6089a7fb20814c02",
+        "name": "Bijoy-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655e03b6089a7fb20814bde",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "বিজয়-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T18:35:34.449Z"
+  },
+  {
+    "location": {
+      "lat": 23.708978,
+      "lng": 90.401695
+    },
+    "_id": "6655bcce2dd5f8f298cb8586",
+    "name": "Babu Bazar Bridge",
+    "buses": [
+      {
+        "_id": "6655e4796089a7fb20814c0c",
+        "name": "Arial",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8637",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "আড়িয়াল",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e950bdab81413f69e5ea",
+        "name": "Padma",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655d00b3b5d13df029ae81d",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "পদ্মা",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T19:50:19.755Z"
+  },
+  {
+    "location": {
+      "lat": 23.78081,
+      "lng": 90.425545
+    },
+    "_id": "6655bcce2dd5f8f298cb8587",
+    "name": "Badda",
+    "buses": [
+      {
+        "_id": "6655e12c6089a7fb20814be4",
+        "name": "Ulka-1",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655de886089a7fb20814bc4",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "উল্কা-০১",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e3fb6089a7fb20814c06",
+        "name": "Dhumketu",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8626",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "ধূমকেতু",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T18:51:42.400Z"
+  },
+  {
+    "location": {
+      "lat": 23.741834,
+      "lng": 90.405787
+    },
+    "_id": "6655bcce2dd5f8f298cb8588",
+    "name": "Bailey Road",
+    "buses": [],
+    "photos": [],
+    "status": "active"
+  },
+  {
+    "location": {
+      "lat": 24.4167,
+      "lng": 88.6667
+    },
+    "_id": "6655bcce2dd5f8f298cb8589",
+    "name": "Balanagar",
+    "buses": [
+      {
+        "_id": "6655e8ccbdab81413f69e5e2",
+        "name": "Nongor",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb862d",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "নোঙর",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T19:23:26.132Z"
+  },
+  {
+    "location": {
+      "lat": 23.794062,
+      "lng": 90.406518
+    },
+    "_id": "6655bcce2dd5f8f298cb858a",
+    "name": "Banani",
+    "buses": [
+      {
+        "_id": "6655e1666089a7fb20814be6",
+        "name": "Ulka-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dea06089a7fb20814bc6",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "উল্কা-০২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e1a86089a7fb20814be8",
+        "name": "Ulka-3",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655def06089a7fb20814bcc",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "উল্কা-০৩",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e3b96089a7fb20814c04",
+        "name": "Ulka-4",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8635",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "উল্কা-৪",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T18:40:04.149Z"
+  },
+  {
+    "location": {
+      "lat": 23.763739,
+      "lng": 90.431651
+    },
+    "_id": "6655bcce2dd5f8f298cb858b",
+    "name": "Banasree",
+    "buses": [],
+    "photos": [],
+    "status": "active"
+  },
+  {
+    "location": {
+      "lat": 23.724484,
+      "lng": 90.404844
+    },
+    "_id": "6655bcce2dd5f8f298cb858c",
+    "name": "Banga Bazar",
+    "buses": [],
+    "photos": [],
+    "status": "active"
+  },
+  {
+    "location": {
+      "lat": 23.746047,
+      "lng": 90.394757
+    },
+    "_id": "6655bcce2dd5f8f298cb858d",
+    "name": "Bangla Motor",
+    "buses": [
+      {
+        "_id": "6655e1fd6089a7fb20814bec",
+        "name": "Onirban-1",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df086089a7fb20814bce",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "অনির্বান-১",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e4486089a7fb20814c0a",
+        "name": "Onirban",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8629",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "অনির্বাণ",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T19:10:19.430Z"
+  },
+  {
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "_id": "665636427515574558b971ec",
+    "name": "Bank Town",
+    "buses": [
+      {
+        "_id": "6655e974bdab81413f69e5ee",
+        "name": "Turag",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8638",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "তুরাগ",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T19:53:38.440Z",
+    "updatedAt": "2024-05-28T19:54:28.659Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "_id": "66562e707515574558b97095",
+    "name": "Barpa",
+    "buses": [
+      {
+        "_id": "6655e8ccbdab81413f69e5e2",
+        "name": "Nongor",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb862d",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "নোঙর",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T19:20:16.162Z",
+    "updatedAt": "2024-05-28T19:23:26.132Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.739832,
+      "lng": 90.427516
+    },
+    "_id": "6655bcce2dd5f8f298cb858e",
+    "name": "Basabo",
+    "buses": [
+      {
+        "_id": "6655e1e46089a7fb20814bea",
+        "name": "Projonmo-1",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dece6089a7fb20814bca",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "প্রজন্ম-১",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T17:02:44.670Z"
+  },
+  {
+    "location": {
+      "lat": 23.7389887,
+      "lng": 90.388255
+    },
+    "_id": "66561a417515574558b96e7f",
+    "name": "Bata Signal Bus Stop",
+    "buses": [
+      {
+        "_id": "6655e28d6089a7fb20814bf6",
+        "name": "Bongshi",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dfa16089a7fb20814bd8",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "বংশী",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T17:54:09.442Z",
+    "updatedAt": "2024-05-28T17:59:36.378Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.711197,
+      "lng": 90.446527
+    },
+    "_id": "6655c0362dd5f8f298cb85f5",
+    "name": "Bhanga Press",
+    "buses": [],
+    "photos": [],
+    "status": "active"
+  },
+  {
+    "location": {
+      "lat": 23.78473,
+      "lng": 90.564916
+    },
+    "_id": "6655c0362dd5f8f298cb85f6",
+    "name": "Bhulta",
+    "buses": [
+      {
+        "_id": "6655e3196089a7fb20814bfc",
+        "name": "Oitijjo",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655d978965683d47f85270b",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "ঐতিহ্য",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e3196089a7fb20814bfc",
+        "name": "Oitijjo",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655d978965683d47f85270b",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "ঐতিহ্য",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e8ccbdab81413f69e5e2",
+        "name": "Nongor",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb862d",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "নোঙর",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T19:23:26.132Z"
+  },
+  {
+    "location": {
+      "lat": 23.764959,
+      "lng": 90.385992
+    },
+    "_id": "6655bcce2dd5f8f298cb858f",
+    "name": "Bijoy Sarani",
+    "buses": [
+      {
+        "_id": "6655e1fd6089a7fb20814bec",
+        "name": "Onirban-1",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df086089a7fb20814bce",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "অনির্বান-১",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e4486089a7fb20814c0a",
+        "name": "Onirban",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8629",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "অনির্বাণ",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T19:10:19.430Z"
+  },
+  {
+    "location": {
+      "lat": 23.725461,
+      "lng": 90.4294448
+    },
+    "_id": "6656202d7515574558b96f34",
+    "name": "Bir Shreshta Shahid Mostafa Kamal Stadium",
+    "buses": [
+      {
+        "_id": "6655e2f26089a7fb20814bfa",
+        "name": "Projonmo-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dfea6089a7fb20814bdc",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "প্রজন্ম-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T18:19:25.267Z",
+    "updatedAt": "2024-05-28T18:23:22.478Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.736217,
+      "lng": 90.428527
+    },
+    "_id": "6655bcce2dd5f8f298cb8590",
+    "name": "Buddhist Monastery",
+    "buses": [
+      {
+        "_id": "6655e1e46089a7fb20814bea",
+        "name": "Projonmo-1",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dece6089a7fb20814bca",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "প্রজন্ম-১",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T17:02:44.670Z"
+  },
+  {
+    "location": {
+      "lat": 23.727342,
+      "lng": 90.397563
+    },
+    "_id": "6655bcce2dd5f8f298cb8591",
+    "name": "Central Shaheed Minar",
+    "buses": [
+      {
+        "_id": "6655e37b6089a7fb20814c00",
+        "name": "Bijoy-1",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df636089a7fb20814bd6",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "বিজয়-১",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e38e6089a7fb20814c02",
+        "name": "Bijoy-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655e03b6089a7fb20814bde",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "বিজয়-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T18:35:34.449Z"
+  },
+  {
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "_id": "665639b17515574558b9724e",
+    "name": "Chandina",
+    "buses": [
+      {
+        "_id": "6655e9c1bdab81413f69e5f6",
+        "name": "Gomoti",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8630",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "গোমতী",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T20:08:17.799Z",
+    "updatedAt": "2024-05-28T20:11:21.527Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.625402,
+      "lng": 90.498397
+    },
+    "_id": "6655bcce2dd5f8f298cb8592",
+    "name": "Chasara",
+    "buses": [
+      {
+        "_id": "6655e2746089a7fb20814bf4",
+        "name": "Swapnachura",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df636089a7fb20814bd6",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "স্বপ্নচূড়া",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e4246089a7fb20814c08",
+        "name": "Swapnachura-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655cfad2dd5f8f298cb8646",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "স্বপ্নচূড়া-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T19:03:36.450Z"
+  },
+  {
+    "location": {
+      "lat": 23.698138,
+      "lng": 90.509641
+    },
+    "_id": "6655c0362dd5f8f298cb85f8",
+    "name": "Chittagong Road",
+    "buses": [
+      {
+        "_id": "6655e25b6089a7fb20814bf2",
+        "name": "Swapnil",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df506089a7fb20814bd4",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "স্বপ্নীল",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T17:42:06.758Z"
+  },
+  {
+    "location": {
+      "lat": 23.6968155,
+      "lng": 90.3981635
+    },
+    "_id": "66562cc87515574558b9706b",
+    "name": "Chunkutia",
+    "buses": [
+      {
+        "_id": "6655e4796089a7fb20814c0c",
+        "name": "Arial",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8637",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "আড়িয়াল",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T19:13:12.639Z",
+    "updatedAt": "2024-05-28T19:17:44.705Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.73953,
+      "lng": 90.383216
+    },
+    "_id": "6655bcce2dd5f8f298cb8593",
+    "name": "City College",
+    "buses": [
+      {
+        "_id": "6655e23d6089a7fb20814bf0",
+        "name": "Durjoy",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df3e6089a7fb20814bd2",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "দুর্জয়",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e2b86089a7fb20814bf8",
+        "name": "Chandramukhi-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dfb16089a7fb20814bda",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "চন্দ্রমূখী-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e98abdab81413f69e5f2",
+        "name": "Kaliganga",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655cfad2dd5f8f298cb863d",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "কালিগঙ্গা",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T20:01:43.588Z"
+  },
+  {
+    "location": {
+      "lat": 23.767432,
+      "lng": 90.369431
+    },
+    "_id": "6655bcce2dd5f8f298cb8594",
+    "name": "College Gate",
+    "buses": [
+      {
+        "_id": "6655e3496089a7fb20814bfe",
+        "name": "Uttoron-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655d934965683d47f852707",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "উত্তরণ-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T18:32:08.938Z"
+  },
+  {
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "_id": "66563a147515574558b97252",
+    "name": "Comilla Cantonment",
+    "buses": [
+      {
+        "_id": "6655e9c1bdab81413f69e5f6",
+        "name": "Gomoti",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8630",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "গোমতী",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T20:09:56.569Z",
+    "updatedAt": "2024-05-28T20:11:21.527Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "_id": "66563a597515574558b97254",
+    "name": "Comilla Police Line",
+    "buses": [
+      {
+        "_id": "6655e9c1bdab81413f69e5f6",
+        "name": "Gomoti",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8630",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "গোমতী",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T20:11:05.931Z",
+    "updatedAt": "2024-05-28T20:11:21.527Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "_id": "665638df7515574558b97246",
+    "name": "Daudkandi",
+    "buses": [
+      {
+        "_id": "6655e9c1bdab81413f69e5f6",
+        "name": "Gomoti",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8630",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "গোমতী",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T20:04:47.671Z",
+    "updatedAt": "2024-05-28T20:11:21.527Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.718527,
+      "lng": 90.484428
+    },
+    "_id": "6655bcce2dd5f8f298cb8595",
+    "name": "Demra",
+    "buses": [
+      {
+        "_id": "6655e3196089a7fb20814bfc",
+        "name": "Oitijjo",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655d978965683d47f85270b",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "ঐতিহ্য",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T18:28:28.806Z"
+  },
+  {
+    "location": {
+      "lat": 23.703386,
+      "lng": 90.448854
+    },
+    "_id": "6655bcce2dd5f8f298cb8596",
+    "name": "Dhania",
+    "buses": [
+      {
+        "_id": "6655e25b6089a7fb20814bf2",
+        "name": "Swapnil",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df506089a7fb20814bd4",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "স্বপ্নীল",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T17:42:06.758Z"
+  },
+  {
+    "location": {
+      "lat": 23.756205,
+      "lng": 90.375376
+    },
+    "_id": "6655bcce2dd5f8f298cb8597",
+    "name": "Dhanmondi 27",
+    "buses": [
+      {
+        "_id": "6655e2b86089a7fb20814bf8",
+        "name": "Chandramukhi-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dfb16089a7fb20814bda",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "চন্দ্রমূখী-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T18:06:49.443Z"
+  },
+  {
+    "location": {
+      "lat": 23.709066,
+      "lng": 90.419474
+    },
+    "_id": "6655bcce2dd5f8f298cb8598",
+    "name": "Dholaikhal",
+    "buses": [
+      {
+        "_id": "6655e3196089a7fb20814bfc",
+        "name": "Oitijjo",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655d978965683d47f85270b",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "ঐতিহ্য",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T18:28:28.806Z"
+  },
+  {
+    "location": {
+      "lat": 23.702885,
+      "lng": 90.435215
+    },
+    "_id": "6655bcce2dd5f8f298cb8599",
+    "name": "Dholaipar",
+    "buses": [],
+    "photos": [],
+    "status": "active"
+  },
+  {
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "_id": "665635077515574558b971c5",
+    "name": "Dohar",
+    "buses": [
+      {
+        "_id": "6655e950bdab81413f69e5ea",
+        "name": "Padma",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655d00b3b5d13df029ae81d",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "পদ্মা",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T19:48:23.667Z",
+    "updatedAt": "2024-05-28T19:50:19.756Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.710163,
+      "lng": 90.42407
+    },
+    "_id": "6655bcce2dd5f8f298cb859a",
+    "name": "Doyagonj",
+    "buses": [
+      {
+        "_id": "6655e1e46089a7fb20814bea",
+        "name": "Projonmo-1",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dece6089a7fb20814bca",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "প্রজন্ম-১",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T17:02:44.669Z"
+  },
+  {
+    "location": {
+      "lat": 23.7455017,
+      "lng": 90.4056141
+    },
+    "_id": "66561aa77515574558b96e81",
+    "name": "Elephant Road",
+    "buses": [
+      {
+        "_id": "6655e28d6089a7fb20814bf6",
+        "name": "Bongshi",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dfa16089a7fb20814bd8",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "বংশী",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T17:55:51.319Z",
+    "updatedAt": "2024-05-28T17:59:36.378Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "_id": "6656393d7515574558b9724a",
+    "name": "Eliotganj",
+    "buses": [
+      {
+        "_id": "6655e9c1bdab81413f69e5f6",
+        "name": "Gomoti",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8630",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "গোমতী",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T20:06:21.182Z",
+    "updatedAt": "2024-05-28T20:11:21.527Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.757529,
+      "lng": 90.390339
+    },
+    "_id": "6655bcce2dd5f8f298cb859b",
+    "name": "Farmgate",
+    "buses": [
+      {
+        "_id": "6655e1fd6089a7fb20814bec",
+        "name": "Onirban-1",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df086089a7fb20814bce",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "অনির্বান-১",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e4486089a7fb20814c0a",
+        "name": "Onirban",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8629",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "অনির্বাণ",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T19:10:19.430Z"
+  },
+  {
+    "location": {
+      "lat": 23.642799,
+      "lng": 90.47282
+    },
+    "_id": "6655bcce2dd5f8f298cb859c",
+    "name": "Fatullah",
+    "buses": [
+      {
+        "_id": "6655e2746089a7fb20814bf4",
+        "name": "Swapnachura",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df636089a7fb20814bd6",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "স্বপ্নচূড়া",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T17:50:38.251Z"
+  },
+  {
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "_id": "665632037515574558b97190",
+    "name": "Feri Ghat",
+    "buses": [
+      {
+        "_id": "6655e939bdab81413f69e5e6",
+        "name": "Rajatrekha",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655e0936089a7fb20814be0",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "রজতরেখা",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T19:35:31.894Z",
+    "updatedAt": "2024-05-28T19:40:19.809Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.783304,
+      "lng": 90.343362
+    },
+    "_id": "6655bcce2dd5f8f298cb859d",
+    "name": "Gabtoli",
+    "buses": [
+      {
+        "_id": "6655e28d6089a7fb20814bf6",
+        "name": "Bongshi",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dfa16089a7fb20814bd8",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "বংশী",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e974bdab81413f69e5ee",
+        "name": "Turag",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8638",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "তুরাগ",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e98abdab81413f69e5f2",
+        "name": "Kaliganga",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655cfad2dd5f8f298cb863d",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "কালিগঙ্গা",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T20:01:43.588Z"
+  },
+  {
+    "location": {
+      "lat": 23.719708,
+      "lng": 90.490538
+    },
+    "_id": "6655bcce2dd5f8f298cb859e",
+    "name": "Gausia",
+    "buses": [],
+    "photos": [],
+    "status": "active"
+  },
+  {
+    "location": {
+      "lat": 23.717539,
+      "lng": 90.429108
+    },
+    "_id": "6655bcce2dd5f8f298cb859f",
+    "name": "Golap Bug",
+    "buses": [
+      {
+        "_id": "6655e1e46089a7fb20814bea",
+        "name": "Projonmo-1",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dece6089a7fb20814bca",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "প্রজন্ম-১",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T17:02:44.669Z"
+  },
+  {
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "_id": "665639107515574558b97248",
+    "name": "Gouripur",
+    "buses": [
+      {
+        "_id": "6655e9c1bdab81413f69e5f6",
+        "name": "Gomoti",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8630",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "গোমতী",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T20:05:36.275Z",
+    "updatedAt": "2024-05-28T20:11:21.527Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.722995,
+      "lng": 90.410747
+    },
+    "_id": "6655bdff2dd5f8f298cb85a1",
+    "name": "Gulisthan",
+    "buses": [
+      {
+        "_id": "6655e12c6089a7fb20814be4",
+        "name": "Ulka-1",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655de886089a7fb20814bc4",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "উল্কা-০১",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e28d6089a7fb20814bf6",
+        "name": "Bongshi",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dfa16089a7fb20814bd8",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "বংশী",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e2b86089a7fb20814bf8",
+        "name": "Chandramukhi-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dfb16089a7fb20814bda",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "চন্দ্রমূখী-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e3496089a7fb20814bfe",
+        "name": "Uttoron-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655d934965683d47f852707",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "উত্তরণ-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e37b6089a7fb20814c00",
+        "name": "Bijoy-1",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df636089a7fb20814bd6",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "বিজয়-১",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e38e6089a7fb20814c02",
+        "name": "Bijoy-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655e03b6089a7fb20814bde",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "বিজয়-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e3b96089a7fb20814c04",
+        "name": "Ulka-4",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8635",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "উল্কা-৪",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e3fb6089a7fb20814c06",
+        "name": "Dhumketu",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8626",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "ধূমকেতু",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e4486089a7fb20814c0a",
+        "name": "Onirban",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8629",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "অনির্বাণ",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e974bdab81413f69e5ee",
+        "name": "Turag",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8638",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "তুরাগ",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e98abdab81413f69e5f2",
+        "name": "Kaliganga",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655cfad2dd5f8f298cb863d",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "কালিগঙ্গা",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T20:01:43.588Z"
+  },
+  {
+    "location": {
+      "lat": 23.7935258,
+      "lng": 90.2708736
+    },
+    "_id": "66561b4e7515574558b96e83",
+    "name": "Hemayetpur",
+    "buses": [
+      {
+        "_id": "6655e28d6089a7fb20814bf6",
+        "name": "Bongshi",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dfa16089a7fb20814bd8",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "বংশী",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e974bdab81413f69e5ee",
+        "name": "Turag",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8638",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "তুরাগ",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e98abdab81413f69e5f2",
+        "name": "Kaliganga",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655cfad2dd5f8f298cb863d",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "কালিগঙ্গা",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T17:58:38.980Z",
+    "updatedAt": "2024-05-28T20:01:43.588Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.478082,
+      "lng": 90.301087
+    },
+    "_id": "6655bdff2dd5f8f298cb85a2",
+    "name": "Holudia",
+    "buses": [
+      {
+        "_id": "6655e4796089a7fb20814c0c",
+        "name": "Arial",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8637",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "আড়িয়াল",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T19:17:44.705Z"
+  },
+  {
+    "location": {
+      "lat": 23.816909,
+      "lng": 90.408453
+    },
+    "_id": "6655bdff2dd5f8f298cb85a3",
+    "name": "Hotel Radisson",
+    "buses": [],
+    "photos": [],
+    "status": "active"
+  },
+  {
+    "location": {
+      "lat": 23.8748268,
+      "lng": 90.4006897
+    },
+    "_id": "66560a1488c4df12bd7c8f70",
+    "name": "House Building",
+    "buses": [
+      {
+        "_id": "6655e1a86089a7fb20814be8",
+        "name": "Ulka-3",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655def06089a7fb20814bcc",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "উল্কা-০৩",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T16:45:08.937Z",
+    "updatedAt": "2024-05-28T16:47:13.392Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.980195,
+      "lng": 90.733595
+    },
+    "_id": "6655bdff2dd5f8f298cb85a4",
+    "name": "Itakhola",
+    "buses": [
+      {
+        "_id": "6655e8ccbdab81413f69e5e2",
+        "name": "Nongor",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb862d",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "নোঙর",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T19:23:26.132Z"
+  },
+  {
+    "location": {
+      "lat": 23.70886,
+      "lng": 90.411386
+    },
+    "_id": "6655bdff2dd5f8f298cb85a5",
+    "name": "Jagannath University",
+    "buses": [
+      {
+        "_id": "6655e12c6089a7fb20814be4",
+        "name": "Ulka-1",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655de886089a7fb20814bc4",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "উল্কা-০১",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e1666089a7fb20814be6",
+        "name": "Ulka-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dea06089a7fb20814bc6",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "উল্কা-০২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e1a86089a7fb20814be8",
+        "name": "Ulka-3",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655def06089a7fb20814bcc",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "উল্কা-০৩",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e1e46089a7fb20814bea",
+        "name": "Projonmo-1",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dece6089a7fb20814bca",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "প্রজন্ম-১",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e1fd6089a7fb20814bec",
+        "name": "Onirban-1",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df086089a7fb20814bce",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "অনির্বান-১",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e2216089a7fb20814bee",
+        "name": "Uttaron",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df236089a7fb20814bd0",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "উত্তরণ",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e23d6089a7fb20814bf0",
+        "name": "Durjoy",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df3e6089a7fb20814bd2",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "দুর্জয়",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e25b6089a7fb20814bf2",
+        "name": "Swapnil",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df506089a7fb20814bd4",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "স্বপ্নীল",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e2746089a7fb20814bf4",
+        "name": "Swapnachura",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df636089a7fb20814bd6",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "স্বপ্নচূড়া",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e28d6089a7fb20814bf6",
+        "name": "Bongshi",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dfa16089a7fb20814bd8",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "বংশী",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e2b86089a7fb20814bf8",
+        "name": "Chandramukhi-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dfb16089a7fb20814bda",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "চন্দ্রমূখী-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e2f26089a7fb20814bfa",
+        "name": "Projonmo-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dfea6089a7fb20814bdc",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "প্রজন্ম-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e3196089a7fb20814bfc",
+        "name": "Oitijjo",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655d978965683d47f85270b",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "ঐতিহ্য",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e3496089a7fb20814bfe",
+        "name": "Uttoron-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655d934965683d47f852707",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "উত্তরণ-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e37b6089a7fb20814c00",
+        "name": "Bijoy-1",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df636089a7fb20814bd6",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "বিজয়-১",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e38e6089a7fb20814c02",
+        "name": "Bijoy-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655e03b6089a7fb20814bde",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "বিজয়-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e3b96089a7fb20814c04",
+        "name": "Ulka-4",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8635",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "উল্কা-৪",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e3fb6089a7fb20814c06",
+        "name": "Dhumketu",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8626",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "ধূমকেতু",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e4246089a7fb20814c08",
+        "name": "Swapnachura-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655cfad2dd5f8f298cb8646",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "স্বপ্নচূড়া-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e4486089a7fb20814c0a",
+        "name": "Onirban",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8629",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "অনির্বাণ",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e4796089a7fb20814c0c",
+        "name": "Arial",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8637",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "আড়িয়াল",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e8ccbdab81413f69e5e2",
+        "name": "Nongor",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb862d",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "নোঙর",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e939bdab81413f69e5e6",
+        "name": "Rajatrekha",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655e0936089a7fb20814be0",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "রজতরেখা",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e950bdab81413f69e5ea",
+        "name": "Padma",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655d00b3b5d13df029ae81d",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "পদ্মা",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e974bdab81413f69e5ee",
+        "name": "Turag",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8638",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "তুরাগ",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e98abdab81413f69e5f2",
+        "name": "Kaliganga",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655cfad2dd5f8f298cb863d",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "কালিগঙ্গা",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e9c1bdab81413f69e5f6",
+        "name": "Gomoti",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8630",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "গোমতী",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T20:11:21.526Z"
+  },
+  {
+    "location": {
+      "lat": 23.775332,
+      "lng": 90.389857
+    },
+    "_id": "6655bdff2dd5f8f298cb85a6",
+    "name": "Jahangir Gate",
+    "buses": [],
+    "photos": [],
+    "status": "active"
+  },
+  {
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "_id": "665629687515574558b97015",
+    "name": "Jalkuri",
+    "buses": [
+      {
+        "_id": "6655e4246089a7fb20814c08",
+        "name": "Swapnachura-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655cfad2dd5f8f298cb8646",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "স্বপ্নচূড়া-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T18:58:48.532Z",
+    "updatedAt": "2024-05-28T19:03:36.449Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.711761,
+      "lng": 90.429414
+    },
+    "_id": "6655bdff2dd5f8f298cb85a7",
+    "name": "Jatrabari",
+    "buses": [
+      {
+        "_id": "6655e25b6089a7fb20814bf2",
+        "name": "Swapnil",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df506089a7fb20814bd4",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "স্বপ্নীল",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e2746089a7fb20814bf4",
+        "name": "Swapnachura",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df636089a7fb20814bd6",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "স্বপ্নচূড়া",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e3196089a7fb20814bfc",
+        "name": "Oitijjo",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655d978965683d47f85270b",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "ঐতিহ্য",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e4246089a7fb20814c08",
+        "name": "Swapnachura-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655cfad2dd5f8f298cb8646",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "স্বপ্নচূড়া-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e8ccbdab81413f69e5e2",
+        "name": "Nongor",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb862d",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "নোঙর",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e9c1bdab81413f69e5f6",
+        "name": "Gomoti",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8630",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "গোমতী",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T20:11:21.527Z"
+  },
+  {
+    "location": {
+      "lat": 23.712986,
+      "lng": 90.428574
+    },
+    "_id": "6655bdff2dd5f8f298cb85a8",
+    "name": "Jonopath Mor",
+    "buses": [],
+    "photos": [],
+    "status": "active"
+  },
+  {
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "_id": "665634107515574558b971b7",
+    "name": "Jony Tower",
+    "buses": [
+      {
+        "_id": "6655e950bdab81413f69e5ea",
+        "name": "Padma",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655d00b3b5d13df029ae81d",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "পদ্মা",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T19:44:16.228Z",
+    "updatedAt": "2024-05-28T19:50:19.755Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "_id": "665634bb7515574558b971c1",
+    "name": "Joypara Thana Mor",
+    "buses": [
+      {
+        "_id": "6655e950bdab81413f69e5ea",
+        "name": "Padma",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655d00b3b5d13df029ae81d",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "পদ্মা",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T19:47:07.885Z",
+    "updatedAt": "2024-05-28T19:50:19.756Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.703539,
+      "lng": 90.517456
+    },
+    "_id": "6655bdff2dd5f8f298cb85a9",
+    "name": "Kachpur Bridge",
+    "buses": [
+      {
+        "_id": "6655e25b6089a7fb20814bf2",
+        "name": "Swapnil",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df506089a7fb20814bd4",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "স্বপ্নীল",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e9c1bdab81413f69e5f6",
+        "name": "Gomoti",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8630",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "গোমতী",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T20:11:21.527Z"
+  },
+  {
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "_id": "665633fb7515574558b971b5",
+    "name": "Kadamtali",
+    "buses": [
+      {
+        "_id": "6655e950bdab81413f69e5ea",
+        "name": "Padma",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655d00b3b5d13df029ae81d",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "পদ্মা",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T19:43:55.120Z",
+    "updatedAt": "2024-05-28T19:50:19.755Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.737534,
+      "lng": 90.408243
+    },
+    "_id": "6655bdff2dd5f8f298cb85ab",
+    "name": "Kakrail",
+    "buses": [
+      {
+        "_id": "6655e1666089a7fb20814be6",
+        "name": "Ulka-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dea06089a7fb20814bc6",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "উল্কা-০২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e3b96089a7fb20814c04",
+        "name": "Ulka-4",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8635",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "উল্কা-৪",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e3fb6089a7fb20814c06",
+        "name": "Dhumketu",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8626",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "ধূমকেতু",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T18:51:42.399Z"
+  },
+  {
+    "location": {
+      "lat": 23.747678,
+      "lng": 90.38048
+    },
+    "_id": "6655bdff2dd5f8f298cb85ac",
+    "name": "Kalabagan",
+    "buses": [
+      {
+        "_id": "6655e28d6089a7fb20814bf6",
+        "name": "Bongshi",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dfa16089a7fb20814bd8",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "বংশী",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e2b86089a7fb20814bf8",
+        "name": "Chandramukhi-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dfb16089a7fb20814bda",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "চন্দ্রমূখী-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e3496089a7fb20814bfe",
+        "name": "Uttoron-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655d934965683d47f852707",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "উত্তরণ-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e974bdab81413f69e5ee",
+        "name": "Turag",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8638",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "তুরাগ",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T19:54:28.659Z"
+  },
+  {
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "_id": "665634297515574558b971b9",
+    "name": "Kalindi",
+    "buses": [
+      {
+        "_id": "6655e950bdab81413f69e5ea",
+        "name": "Padma",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655d00b3b5d13df029ae81d",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "পদ্মা",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T19:44:41.939Z",
+    "updatedAt": "2024-05-28T19:50:19.755Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.778164,
+      "lng": 90.361031
+    },
+    "_id": "6655bdff2dd5f8f298cb85ad",
+    "name": "Kallyanpur",
+    "buses": [
+      {
+        "_id": "6655e23d6089a7fb20814bf0",
+        "name": "Durjoy",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df3e6089a7fb20814bd2",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "দুর্জয়",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e3496089a7fb20814bfe",
+        "name": "Uttoron-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655d934965683d47f852707",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "উত্তরণ-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T18:32:08.938Z"
+  },
+  {
+    "location": {
+      "lat": 23.822175,
+      "lng": 90.377623
+    },
+    "_id": "6655bdff2dd5f8f298cb85ae",
+    "name": "Kalshi",
+    "buses": [],
+    "photos": [],
+    "status": "active"
+  },
+  {
+    "location": {
+      "lat": 23.73257,
+      "lng": 90.425146
+    },
+    "_id": "6655bdff2dd5f8f298cb85af",
+    "name": "Kamalapur",
+    "buses": [
+      {
+        "_id": "6655e2f26089a7fb20814bfa",
+        "name": "Projonmo-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dfea6089a7fb20814bdc",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "প্রজন্ম-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T18:23:22.478Z"
+  },
+  {
+    "location": {
+      "lat": 23.73878,
+      "lng": 90.391849
+    },
+    "_id": "6655beba2dd5f8f298cb85b1",
+    "name": "Katabon",
+    "buses": [],
+    "photos": [],
+    "status": "active"
+  },
+  {
+    "location": {
+      "lat": 23.75174,
+      "lng": 90.3938496
+    },
+    "_id": "66562b657515574558b9703c",
+    "name": "Kawran Bazar",
+    "buses": [
+      {
+        "_id": "6655e4486089a7fb20814c0a",
+        "name": "Onirban",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8629",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "অনির্বাণ",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T19:07:17.245Z",
+    "updatedAt": "2024-05-28T19:10:19.430Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.797442,
+      "lng": 90.372804
+    },
+    "_id": "6655bdff2dd5f8f298cb85aa",
+    "name": "Kazipara",
+    "buses": [
+      {
+        "_id": "6655e1fd6089a7fb20814bec",
+        "name": "Onirban-1",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df086089a7fb20814bce",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "অনির্বান-১",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e4486089a7fb20814c0a",
+        "name": "Onirban",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8629",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "অনির্বাণ",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T19:10:19.430Z"
+  },
+  {
+    "location": {
+      "lat": 23.759133,
+      "lng": 90.383857
+    },
+    "_id": "6655beba2dd5f8f298cb85b2",
+    "name": "Khamar Bari",
+    "buses": [
+      {
+        "_id": "6655e2b86089a7fb20814bf8",
+        "name": "Chandramukhi-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dfb16089a7fb20814bda",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "চন্দ্রমূখী-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T18:06:49.443Z"
+  },
+  {
+    "location": {
+      "lat": 23.695497,
+      "lng": 90.466554
+    },
+    "_id": "6655beba2dd5f8f298cb85b3",
+    "name": "Khanka Sharif",
+    "buses": [],
+    "photos": [],
+    "status": "active"
+  },
+  {
+    "location": {
+      "lat": 23.748273,
+      "lng": 90.423628
+    },
+    "_id": "6655beba2dd5f8f298cb85b4",
+    "name": "Khilgaon",
+    "buses": [
+      {
+        "_id": "6655e1e46089a7fb20814bea",
+        "name": "Projonmo-1",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dece6089a7fb20814bca",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "প্রজন্ম-১",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T17:02:44.670Z"
+  },
+  {
+    "location": {
+      "lat": 23.828466,
+      "lng": 90.420227
+    },
+    "_id": "6655beba2dd5f8f298cb85b5",
+    "name": "Khilkhet",
+    "buses": [
+      {
+        "_id": "6655e1a86089a7fb20814be8",
+        "name": "Ulka-3",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655def06089a7fb20814bcc",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "উল্কা-০৩",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e3b96089a7fb20814c04",
+        "name": "Ulka-4",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8635",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "উল্কা-৪",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T18:40:04.149Z"
+  },
+  {
+    "location": {
+      "lat": 23.717178,
+      "lng": 90.468501
+    },
+    "_id": "6655beba2dd5f8f298cb85b6",
+    "name": "Konapara",
+    "buses": [
+      {
+        "_id": "6655e3196089a7fb20814bfc",
+        "name": "Oitijjo",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655d978965683d47f85270b",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "ঐতিহ্য",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T18:28:28.806Z"
+  },
+  {
+    "location": {
+      "lat": 23.820489,
+      "lng": 90.420297
+    },
+    "_id": "6655beba2dd5f8f298cb85b7",
+    "name": "Kuril Bishwa Road",
+    "buses": [
+      {
+        "_id": "6655e12c6089a7fb20814be4",
+        "name": "Ulka-1",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655de886089a7fb20814bc4",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "উল্কা-০১",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T15:43:40.529Z"
+  },
+  {
+    "location": {
+      "lat": 23.4664327,
+      "lng": 90.3321803
+    },
+    "_id": "66562d867515574558b9706d",
+    "name": "Lohajang",
+    "buses": [
+      {
+        "_id": "6655e4796089a7fb20814c0c",
+        "name": "Arial",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8637",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "আড়িয়াল",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T19:16:22.428Z",
+    "updatedAt": "2024-05-28T19:17:44.705Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.7912618,
+      "lng": 90.3900097
+    },
+    "_id": "665624d37515574558b96fc7",
+    "name": "MES IB",
+    "buses": [
+      {
+        "_id": "6655e3b96089a7fb20814c04",
+        "name": "Ulka-4",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8635",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "উল্কা-৪",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T18:39:15.703Z",
+    "updatedAt": "2024-05-28T18:40:04.149Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.690632,
+      "lng": 90.546541
+    },
+    "_id": "6655beba2dd5f8f298cb85b8",
+    "name": "Madanpur Chowrasta",
+    "buses": [
+      {
+        "_id": "6655e25b6089a7fb20814bf2",
+        "name": "Swapnil",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df506089a7fb20814bd4",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "স্বপ্নীল",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T17:42:06.758Z"
+  },
+  {
+    "location": {
+      "lat": 23.854658,
+      "lng": 90.673008
+    },
+    "_id": "6655beba2dd5f8f298cb85b9",
+    "name": "Madhabdi",
+    "buses": [
+      {
+        "_id": "6655e8ccbdab81413f69e5e2",
+        "name": "Nongor",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb862d",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "নোঙর",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T19:23:26.132Z"
+  },
+  {
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "_id": "665639947515574558b9724c",
+    "name": "Madhaiya",
+    "buses": [
+      {
+        "_id": "6655e9c1bdab81413f69e5f6",
+        "name": "Gomoti",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8630",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "গোমতী",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T20:07:48.247Z",
+    "updatedAt": "2024-05-28T20:11:21.527Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.750441,
+      "lng": 90.412988
+    },
+    "_id": "6655beba2dd5f8f298cb85ba",
+    "name": "Malibug",
+    "buses": [
+      {
+        "_id": "6655e12c6089a7fb20814be4",
+        "name": "Ulka-1",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655de886089a7fb20814bc4",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "উল্কা-০১",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e1666089a7fb20814be6",
+        "name": "Ulka-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dea06089a7fb20814bc6",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "উল্কা-০২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e2f26089a7fb20814bfa",
+        "name": "Projonmo-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dfea6089a7fb20814bdc",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "প্রজন্ম-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T18:23:22.478Z"
+  },
+  {
+    "location": {
+      "lat": 23.72263,
+      "lng": 90.428703
+    },
+    "_id": "6655beba2dd5f8f298cb85bb",
+    "name": "Maniknagar",
+    "buses": [
+      {
+        "_id": "6655e1e46089a7fb20814bea",
+        "name": "Projonmo-1",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dece6089a7fb20814bca",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "প্রজন্ম-১",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e2f26089a7fb20814bfa",
+        "name": "Projonmo-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dfea6089a7fb20814bdc",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "প্রজন্ম-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T18:23:22.478Z"
+  },
+  {
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "_id": "6656304e7515574558b9718a",
+    "name": "Matuali",
+    "buses": [
+      {
+        "_id": "6655e939bdab81413f69e5e6",
+        "name": "Rajatrekha",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655e0936089a7fb20814be0",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "রজতরেখা",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T19:28:14.452Z",
+    "updatedAt": "2024-05-28T19:40:19.809Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.473334,
+      "lng": 90.265056
+    },
+    "_id": "6655beba2dd5f8f298cb85bc",
+    "name": "Mawa Chowrasta",
+    "buses": [
+      {
+        "_id": "6655e4796089a7fb20814c0c",
+        "name": "Arial",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8637",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "আড়িয়াল",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T19:17:44.705Z"
+  },
+  {
+    "location": {
+      "lat": 23.6143126,
+      "lng": 90.6136577
+    },
+    "_id": "665616b57452f93f101ff194",
+    "name": "Meghna Ghat",
+    "buses": [
+      {
+        "_id": "6655e25b6089a7fb20814bf2",
+        "name": "Swapnil",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df506089a7fb20814bd4",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "স্বপ্নীল",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e9c1bdab81413f69e5f6",
+        "name": "Gomoti",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8630",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "গোমতী",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T17:39:01.461Z",
+    "updatedAt": "2024-05-28T20:11:21.527Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.762403,
+      "lng": 90.442318
+    },
+    "_id": "6655beba2dd5f8f298cb85bd",
+    "name": "Meradia",
+    "buses": [],
+    "photos": [],
+    "status": "active"
+  },
+  {
+    "location": {
+      "lat": 23.771503,
+      "lng": 90.425099
+    },
+    "_id": "6655beba2dd5f8f298cb85be",
+    "name": "Merul Badda",
+    "buses": [],
+    "photos": [],
+    "status": "active"
+  },
+  {
+    "location": {
+      "lat": 23.798771,
+      "lng": 90.35344
+    },
+    "_id": "6655beba2dd5f8f298cb85bf",
+    "name": "Mirpur 1",
+    "buses": [
+      {
+        "_id": "6655e2216089a7fb20814bee",
+        "name": "Uttaron",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df236089a7fb20814bd0",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "উত্তরণ",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e3496089a7fb20814bfe",
+        "name": "Uttoron-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655d934965683d47f852707",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "উত্তরণ-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T18:32:08.938Z"
+  },
+  {
+    "location": {
+      "lat": 23.807481,
+      "lng": 90.368592
+    },
+    "_id": "6655bf382dd5f8f298cb85c1",
+    "name": "Mirpur 10",
+    "buses": [
+      {
+        "_id": "6655e1fd6089a7fb20814bec",
+        "name": "Onirban-1",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df086089a7fb20814bce",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "অনির্বান-১",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e2216089a7fb20814bee",
+        "name": "Uttaron",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df236089a7fb20814bd0",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "উত্তরণ",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e4486089a7fb20814c0a",
+        "name": "Onirban",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8629",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "অনির্বাণ",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T19:10:19.430Z"
+  },
+  {
+    "location": {
+      "lat": 23.82475,
+      "lng": 90.364187
+    },
+    "_id": "6655bf382dd5f8f298cb85c2",
+    "name": "Mirpur 11",
+    "buses": [
+      {
+        "_id": "6655e1fd6089a7fb20814bec",
+        "name": "Onirban-1",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df086089a7fb20814bce",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "অনির্বান-১",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T17:21:56.955Z"
+  },
+  {
+    "location": {
+      "lat": 23.828381,
+      "lng": 90.364004
+    },
+    "_id": "6655bf382dd5f8f298cb85c3",
+    "name": "Mirpur 12",
+    "buses": [
+      {
+        "_id": "6655e1fd6089a7fb20814bec",
+        "name": "Onirban-1",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df086089a7fb20814bce",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "অনির্বান-১",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T17:21:56.956Z"
+  },
+  {
+    "location": {
+      "lat": 23.798607,
+      "lng": 90.387542
+    },
+    "_id": "6655bf382dd5f8f298cb85c4",
+    "name": "Mirpur 14",
+    "buses": [
+      {
+        "_id": "6655e2216089a7fb20814bee",
+        "name": "Uttaron",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df236089a7fb20814bd0",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "উত্তরণ",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T17:26:27.951Z"
+  },
+  {
+    "location": {
+      "lat": 23.805283,
+      "lng": 90.363455
+    },
+    "_id": "6655bf382dd5f8f298cb85c5",
+    "name": "Mirpur 2",
+    "buses": [
+      {
+        "_id": "6655e3496089a7fb20814bfe",
+        "name": "Uttoron-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655d934965683d47f852707",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "উত্তরণ-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T18:32:08.938Z"
+  },
+  {
+    "location": {
+      "lat": 23.7227289,
+      "lng": 90.4218654
+    },
+    "_id": "66561eeb7515574558b96f32",
+    "name": "Modhumita Cinema Hall",
+    "buses": [
+      {
+        "_id": "6655e2f26089a7fb20814bfa",
+        "name": "Projonmo-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dfea6089a7fb20814bdc",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "প্রজন্ম-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T18:14:03.054Z",
+    "updatedAt": "2024-05-28T18:23:22.478Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.748765,
+      "lng": 90.402645
+    },
+    "_id": "6655bf382dd5f8f298cb85c6",
+    "name": "Mogbazar",
+    "buses": [
+      {
+        "_id": "6655e1666089a7fb20814be6",
+        "name": "Ulka-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dea06089a7fb20814bc6",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "উল্কা-০২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e1a86089a7fb20814be8",
+        "name": "Ulka-3",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655def06089a7fb20814bcc",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "উল্কা-০৩",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e3b96089a7fb20814c04",
+        "name": "Ulka-4",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8635",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "উল্কা-৪",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T18:40:04.149Z"
+  },
+  {
+    "location": {
+      "lat": 23.778514,
+      "lng": 90.397761
+    },
+    "_id": "6655bf382dd5f8f298cb85c7",
+    "name": "Mohakhali",
+    "buses": [
+      {
+        "_id": "6655e1666089a7fb20814be6",
+        "name": "Ulka-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dea06089a7fb20814bc6",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "উল্কা-০২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e1a86089a7fb20814be8",
+        "name": "Ulka-3",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655def06089a7fb20814bcc",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "উল্কা-০৩",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e3b96089a7fb20814c04",
+        "name": "Ulka-4",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8635",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "উল্কা-৪",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T18:40:04.149Z"
+  },
+  {
+    "location": {
+      "lat": 23.757552,
+      "lng": 90.361472
+    },
+    "_id": "6655c0362dd5f8f298cb85f9",
+    "name": "Mohammadpur",
+    "buses": [
+      {
+        "_id": "6655e23d6089a7fb20814bf0",
+        "name": "Durjoy",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df3e6089a7fb20814bd2",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "দুর্জয়",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e98abdab81413f69e5f2",
+        "name": "Kaliganga",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655cfad2dd5f8f298cb863d",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "কালিগঙ্গা",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T20:01:43.588Z"
+  },
+  {
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "_id": "665637df7515574558b9721a",
+    "name": "Mohammadpur Beribadh",
+    "buses": [
+      {
+        "_id": "6655e98abdab81413f69e5f2",
+        "name": "Kaliganga",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655cfad2dd5f8f298cb863d",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "কালিগঙ্গা",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T20:00:31.266Z",
+    "updatedAt": "2024-05-28T20:01:43.588Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.726906,
+      "lng": 90.421577
+    },
+    "_id": "6655bf382dd5f8f298cb85c8",
+    "name": "Motijheel",
+    "buses": [],
+    "photos": [],
+    "status": "active"
+  },
+  {
+    "location": {
+      "lat": 23.733753,
+      "lng": 90.403653
+    },
+    "_id": "6655bf382dd5f8f298cb85c9",
+    "name": "Motsho Bhaban",
+    "buses": [
+      {
+        "_id": "6655e3496089a7fb20814bfe",
+        "name": "Uttoron-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655d934965683d47f852707",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "উত্তরণ-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e4486089a7fb20814c0a",
+        "name": "Onirban",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8629",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "অনির্বাণ",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T19:10:19.430Z"
+  },
+  {
+    "location": {
+      "lat": 23.731158,
+      "lng": 90.428547
+    },
+    "_id": "6655bf382dd5f8f298cb85ca",
+    "name": "Mugda",
+    "buses": [
+      {
+        "_id": "6655e1e46089a7fb20814bea",
+        "name": "Projonmo-1",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dece6089a7fb20814bca",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "প্রজন্ম-১",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e2f26089a7fb20814bfa",
+        "name": "Projonmo-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dfea6089a7fb20814bdc",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "প্রজন্ম-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T18:23:22.478Z"
+  },
+  {
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "_id": "665634d17515574558b971c3",
+    "name": "Muksudpur School",
+    "buses": [
+      {
+        "_id": "6655e950bdab81413f69e5ea",
+        "name": "Padma",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655d00b3b5d13df029ae81d",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "পদ্মা",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T19:47:29.733Z",
+    "updatedAt": "2024-05-28T19:50:19.756Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.5701579,
+      "lng": 90.5126238
+    },
+    "_id": "665631d47515574558b9718e",
+    "name": "Muktarpur Bridge",
+    "buses": [
+      {
+        "_id": "6655e939bdab81413f69e5e6",
+        "name": "Rajatrekha",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655e0936089a7fb20814be0",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "রজতরেখা",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T19:34:44.734Z",
+    "updatedAt": "2024-05-28T19:40:19.809Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "_id": "665633107515574558b97194",
+    "name": "Munshiganj Sadar",
+    "buses": [
+      {
+        "_id": "6655e939bdab81413f69e5e6",
+        "name": "Rajatrekha",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655e0936089a7fb20814be0",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "রজতরেখা",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T19:40:00.299Z",
+    "updatedAt": "2024-05-28T19:40:19.809Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.769887,
+      "lng": 90.400866
+    },
+    "_id": "6655bf382dd5f8f298cb85cb",
+    "name": "Nabisco",
+    "buses": [
+      {
+        "_id": "6655e1666089a7fb20814be6",
+        "name": "Ulka-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dea06089a7fb20814bc6",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "উল্কা-০২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e3b96089a7fb20814c04",
+        "name": "Ulka-4",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8635",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "উল্কা-৪",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T18:40:04.149Z"
+  },
+  {
+    "location": {
+      "lat": 23.690981,
+      "lng": 90.43181
+    },
+    "_id": "6655bf382dd5f8f298cb85cc",
+    "name": "Narayanganj",
+    "buses": [
+      {
+        "_id": "6655e2746089a7fb20814bf4",
+        "name": "Swapnachura",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df636089a7fb20814bd6",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "স্বপ্নচূড়া",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T17:50:38.251Z"
+  },
+  {
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "_id": "665634a57515574558b971bf",
+    "name": "Nawabganj",
+    "buses": [
+      {
+        "_id": "6655e950bdab81413f69e5ea",
+        "name": "Padma",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655d00b3b5d13df029ae81d",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "পদ্মা",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T19:46:45.820Z",
+    "updatedAt": "2024-05-28T19:50:19.756Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.733236,
+      "lng": 90.384673
+    },
+    "_id": "6655bf382dd5f8f298cb85cd",
+    "name": "New Market",
+    "buses": [
+      {
+        "_id": "6655e2216089a7fb20814bee",
+        "name": "Uttaron",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df236089a7fb20814bd0",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "উত্তরণ",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e23d6089a7fb20814bf0",
+        "name": "Durjoy",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df3e6089a7fb20814bd2",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "দুর্জয়",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e37b6089a7fb20814c00",
+        "name": "Bijoy-1",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df636089a7fb20814bd6",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "বিজয়-১",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e38e6089a7fb20814c02",
+        "name": "Bijoy-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655e03b6089a7fb20814bde",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "বিজয়-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e974bdab81413f69e5ee",
+        "name": "Turag",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8638",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "তুরাগ",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T19:54:28.659Z"
+  },
+  {
+    "location": {
+      "lat": 23.732376,
+      "lng": 90.385069
+    },
+    "_id": "6655bf382dd5f8f298cb85ce",
+    "name": "Nilkhet",
+    "buses": [
+      {
+        "_id": "6655e2b86089a7fb20814bf8",
+        "name": "Chandramukhi-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dfb16089a7fb20814bda",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "চন্দ্রমূখী-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e98abdab81413f69e5f2",
+        "name": "Kaliganga",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655cfad2dd5f8f298cb863d",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "কালিগঙ্গা",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T20:01:43.588Z"
+  },
+  {
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "_id": "665639f67515574558b97250",
+    "name": "Nimsar",
+    "buses": [
+      {
+        "_id": "6655e9c1bdab81413f69e5f6",
+        "name": "Gomoti",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8630",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "গোমতী",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T20:09:26.899Z",
+    "updatedAt": "2024-05-28T20:11:21.527Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.590556,
+      "lng": 90.383177
+    },
+    "_id": "6655bf382dd5f8f298cb85cf",
+    "name": "Nimtola",
+    "buses": [
+      {
+        "_id": "6655e4796089a7fb20814c0c",
+        "name": "Arial",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8637",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "আড়িয়াল",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T19:17:44.705Z"
+  },
+  {
+    "location": {
+      "lat": 23.912737,
+      "lng": 90.259502
+    },
+    "_id": "6655bf382dd5f8f298cb85d0",
+    "name": "Nobinagar",
+    "buses": [
+      {
+        "_id": "6655e28d6089a7fb20814bf6",
+        "name": "Bongshi",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dfa16089a7fb20814bd8",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "বংশী",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e974bdab81413f69e5ee",
+        "name": "Turag",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8638",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "তুরাগ",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T19:54:28.659Z"
+  },
+  {
+    "location": {
+      "lat": 23.797727,
+      "lng": 90.423656
+    },
+    "_id": "6655bf382dd5f8f298cb85d1",
+    "name": "Notun Bazar",
+    "buses": [
+      {
+        "_id": "6655e3fb6089a7fb20814c06",
+        "name": "Dhumketu",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8626",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "ধূমকেতু",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T18:51:42.400Z"
+  },
+  {
+    "location": {
+      "lat": 23.760539,
+      "lng": 90.36177
+    },
+    "_id": "6655bf382dd5f8f298cb85d2",
+    "name": "Nurjahan Road",
+    "buses": [],
+    "photos": [],
+    "status": "active"
+  },
+  {
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "_id": "665629d17515574558b97017",
+    "name": "Osmani Powro Stadium",
+    "buses": [
+      {
+        "_id": "6655e4246089a7fb20814c08",
+        "name": "Swapnachura-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655cfad2dd5f8f298cb8646",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "স্বপ্নচূড়া-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T19:00:33.320Z",
+    "updatedAt": "2024-05-28T19:03:36.450Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.90934,
+      "lng": 90.666529
+    },
+    "_id": "6655bf382dd5f8f298cb85d3",
+    "name": "Pachdona",
+    "buses": [
+      {
+        "_id": "6655e8ccbdab81413f69e5e2",
+        "name": "Nongor",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb862d",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "নোঙর",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T19:23:26.132Z"
+  },
+  {
+    "location": {
+      "lat": 23.727409,
+      "lng": 90.389468
+    },
+    "_id": "6655bf382dd5f8f298cb85d4",
+    "name": "Palashi",
+    "buses": [
+      {
+        "_id": "6655e2b86089a7fb20814bf8",
+        "name": "Chandramukhi-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dfb16089a7fb20814bda",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "চন্দ্রমূখী-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e37b6089a7fb20814c00",
+        "name": "Bijoy-1",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df636089a7fb20814bd6",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "বিজয়-১",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e38e6089a7fb20814c02",
+        "name": "Bijoy-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655e03b6089a7fb20814bde",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "বিজয়-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T18:35:34.449Z"
+  },
+  {
+    "location": {
+      "lat": 23.730308,
+      "lng": 90.410045
+    },
+    "_id": "6655bfbc2dd5f8f298cb85d6",
+    "name": "Paltan",
+    "buses": [
+      {
+        "_id": "6655e12c6089a7fb20814be4",
+        "name": "Ulka-1",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655de886089a7fb20814bc4",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "উল্কা-০১",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e1fd6089a7fb20814bec",
+        "name": "Onirban-1",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df086089a7fb20814bce",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "অনির্বান-১",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T17:21:56.955Z"
+  },
+  {
+    "location": {
+      "lat": 23.6328561,
+      "lng": 90.4760566
+    },
+    "_id": "665631387515574558b9718c",
+    "name": "Ponchoboti",
+    "buses": [
+      {
+        "_id": "6655e939bdab81413f69e5e6",
+        "name": "Rajatrekha",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655e0936089a7fb20814be0",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "রজতরেখা",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e939bdab81413f69e5e6",
+        "name": "Rajatrekha",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655e0936089a7fb20814be0",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "রজতরেখা",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T19:32:08.964Z",
+    "updatedAt": "2024-05-28T19:40:19.809Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "_id": "665634407515574558b971bb",
+    "name": "Ramer Kindi",
+    "buses": [
+      {
+        "_id": "6655e950bdab81413f69e5ea",
+        "name": "Padma",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655d00b3b5d13df029ae81d",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "পদ্মা",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T19:45:04.303Z",
+    "updatedAt": "2024-05-28T19:50:19.755Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.7612256,
+      "lng": 90.42076599999996
+    },
+    "_id": "6655bfbc2dd5f8f298cb85d7",
+    "name": "Rampura",
+    "buses": [
+      {
+        "_id": "6655e12c6089a7fb20814be4",
+        "name": "Ulka-1",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655de886089a7fb20814bc4",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "উল্কা-০১",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T15:43:40.528Z"
+  },
+  {
+    "location": {
+      "lat": 23.7602428,
+      "lng": 90.4186208
+    },
+    "_id": "665625fd7515574558b96ff0",
+    "name": "Rampura Kacha Bazar",
+    "buses": [
+      {
+        "_id": "6655e3fb6089a7fb20814c06",
+        "name": "Dhumketu",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8626",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "ধূমকেতু",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T18:44:13.218Z",
+    "updatedAt": "2024-05-28T18:51:42.400Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.7658333,
+      "lng": 90.4230556
+    },
+    "_id": "6656276a7515574558b96ff2",
+    "name": "Rampura TV Centre",
+    "buses": [
+      {
+        "_id": "6655e3fb6089a7fb20814c06",
+        "name": "Dhumketu",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8626",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "ধূমকেতু",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T18:50:18.664Z",
+    "updatedAt": "2024-05-28T18:51:42.400Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.699656,
+      "lng": 90.457095
+    },
+    "_id": "6655bfbc2dd5f8f298cb85d8",
+    "name": "Rayarbag",
+    "buses": [],
+    "photos": [],
+    "status": "active"
+  },
+  {
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "_id": "6656345a7515574558b971bd",
+    "name": "Rohitpur",
+    "buses": [
+      {
+        "_id": "6655e950bdab81413f69e5ea",
+        "name": "Padma",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655d00b3b5d13df029ae81d",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "পদ্মা",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T19:45:30.219Z",
+    "updatedAt": "2024-05-28T19:50:19.756Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.740058,
+      "lng": 90.524962
+    },
+    "_id": "6655bfbc2dd5f8f298cb85d9",
+    "name": "Rupshi",
+    "buses": [],
+    "photos": [],
+    "status": "active"
+  },
+  {
+    "location": {
+      "lat": 23.716651,
+      "lng": 90.426006
+    },
+    "_id": "6655bfbc2dd5f8f298cb85da",
+    "name": "Saidabad",
+    "buses": [
+      {
+        "_id": "6655e2746089a7fb20814bf4",
+        "name": "Swapnachura",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df636089a7fb20814bd6",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "স্বপ্নচূড়া",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T17:50:38.250Z"
+  },
+  {
+    "location": {
+      "lat": 23.750947,
+      "lng": 90.368428
+    },
+    "_id": "6655bfbc2dd5f8f298cb85db",
+    "name": "Sankar",
+    "buses": [
+      {
+        "_id": "6655e23d6089a7fb20814bf0",
+        "name": "Durjoy",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df3e6089a7fb20814bd2",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "দুর্জয়",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T17:30:33.018Z"
+  },
+  {
+    "location": {
+      "lat": 23.757724,
+      "lng": 90.398921
+    },
+    "_id": "6655bfbc2dd5f8f298cb85dc",
+    "name": "Sat Rasta",
+    "buses": [
+      {
+        "_id": "6655e1a86089a7fb20814be8",
+        "name": "Ulka-3",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655def06089a7fb20814bcc",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "উল্কা-০৩",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e3b96089a7fb20814c04",
+        "name": "Ulka-4",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8635",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "উল্কা-৪",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T18:40:04.149Z"
+  },
+  {
+    "location": {
+      "lat": 23.847612,
+      "lng": 90.257224
+    },
+    "_id": "6655bfbc2dd5f8f298cb85dd",
+    "name": "Savar",
+    "buses": [],
+    "photos": [],
+    "status": "active"
+  },
+  {
+    "location": {
+      "lat": 23.847612,
+      "lng": 90.257224
+    },
+    "_id": "6655bfbc2dd5f8f298cb85de",
+    "name": "Savar Bus Stand",
+    "buses": [
+      {
+        "_id": "6655e28d6089a7fb20814bf6",
+        "name": "Bongshi",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dfa16089a7fb20814bd8",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "বংশী",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e974bdab81413f69e5ee",
+        "name": "Turag",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8638",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "তুরাগ",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T19:54:28.659Z"
+  },
+  {
+    "location": {
+      "lat": 23.738845,
+      "lng": 90.383446
+    },
+    "_id": "6655bfbc2dd5f8f298cb85df",
+    "name": "Science Lab",
+    "buses": [
+      {
+        "_id": "6655e3496089a7fb20814bfe",
+        "name": "Uttoron-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655d934965683d47f852707",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "উত্তরণ-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T18:32:08.938Z"
+  },
+  {
+    "location": {
+      "lat": 23.738317,
+      "lng": 90.395382
+    },
+    "_id": "6655bfbc2dd5f8f298cb85e0",
+    "name": "Shahbag",
+    "buses": [
+      {
+        "_id": "6655e1fd6089a7fb20814bec",
+        "name": "Onirban-1",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df086089a7fb20814bce",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "অনির্বান-১",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e28d6089a7fb20814bf6",
+        "name": "Bongshi",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dfa16089a7fb20814bd8",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "বংশী",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e3496089a7fb20814bfe",
+        "name": "Uttoron-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655d934965683d47f852707",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "উত্তরণ-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e4486089a7fb20814c0a",
+        "name": "Onirban",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8629",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "অনির্বাণ",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T19:10:19.430Z"
+  },
+  {
+    "location": {
+      "lat": 23.702589,
+      "lng": 90.45032
+    },
+    "_id": "6655bfbc2dd5f8f298cb85e1",
+    "name": "Shanir Akhra",
+    "buses": [
+      {
+        "_id": "6655e25b6089a7fb20814bf2",
+        "name": "Swapnil",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df506089a7fb20814bd4",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "স্বপ্নীল",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T17:42:06.758Z"
+  },
+  {
+    "location": {
+      "lat": 23.741772,
+      "lng": 90.411813
+    },
+    "_id": "6655bfbc2dd5f8f298cb85e2",
+    "name": "Shanti Nagar",
+    "buses": [
+      {
+        "_id": "6655e3fb6089a7fb20814c06",
+        "name": "Dhumketu",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8626",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "ধূমকেতু",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T18:51:42.399Z"
+  },
+  {
+    "location": {
+      "lat": 23.912664,
+      "lng": 90.699027
+    },
+    "_id": "6655bfbc2dd5f8f298cb85e3",
+    "name": "Shekher Chor",
+    "buses": [],
+    "photos": [],
+    "status": "active"
+  },
+  {
+    "location": {
+      "lat": 23.794776,
+      "lng": 90.414186
+    },
+    "_id": "6655c0362dd5f8f298cb85e5",
+    "name": "Sheraton Hotel",
+    "buses": [],
+    "photos": [],
+    "status": "active"
+  },
+  {
+    "location": {
+      "lat": 23.7932392,
+      "lng": 90.3766243
+    },
+    "_id": "66562bdb7515574558b9703e",
+    "name": "Shewrapara",
+    "buses": [
+      {
+        "_id": "6655e4486089a7fb20814c0a",
+        "name": "Onirban",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8629",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "অনির্বাণ",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T19:09:15.953Z",
+    "updatedAt": "2024-05-28T19:10:19.430Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.728129,
+      "lng": 90.403964
+    },
+    "_id": "6655c0362dd5f8f298cb85e6",
+    "name": "Shikkha Bhaban",
+    "buses": [],
+    "photos": [],
+    "status": "active"
+  },
+  {
+    "location": {
+      "lat": 24.03186,
+      "lng": 90.415944
+    },
+    "_id": "6655c0362dd5f8f298cb85e7",
+    "name": "Shimultoli",
+    "buses": [],
+    "photos": [],
+    "status": "active"
+  },
+  {
+    "location": {
+      "lat": 23.77518,
+      "lng": 90.365362
+    },
+    "_id": "6655c0362dd5f8f298cb85e8",
+    "name": "Shyamoli",
+    "buses": [
+      {
+        "_id": "6655e2216089a7fb20814bee",
+        "name": "Uttaron",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df236089a7fb20814bd0",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "উত্তরণ",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e23d6089a7fb20814bf0",
+        "name": "Durjoy",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df3e6089a7fb20814bd2",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "দুর্জয়",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e28d6089a7fb20814bf6",
+        "name": "Bongshi",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dfa16089a7fb20814bd8",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "বংশী",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e3496089a7fb20814bfe",
+        "name": "Uttoron-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655d934965683d47f852707",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "উত্তরণ-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e974bdab81413f69e5ee",
+        "name": "Turag",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8638",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "তুরাগ",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T19:54:28.659Z"
+  },
+  {
+    "location": {
+      "lat": 23.687127,
+      "lng": 90.435305
+    },
+    "_id": "6655c0362dd5f8f298cb85e9",
+    "name": "Shyampur",
+    "buses": [
+      {
+        "_id": "6655e2746089a7fb20814bf4",
+        "name": "Swapnachura",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df636089a7fb20814bd6",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "স্বপ্নচূড়া",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T17:50:38.251Z"
+  },
+  {
+    "location": {
+      "lat": 23.748492,
+      "lng": 90.36988
+    },
+    "_id": "6655c0362dd5f8f298cb85ea",
+    "name": "Sia Masjid",
+    "buses": [],
+    "photos": [],
+    "status": "active"
+  },
+  {
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "_id": "66562a087515574558b97019",
+    "name": "Sibu Market",
+    "buses": [
+      {
+        "_id": "6655e4246089a7fb20814c08",
+        "name": "Swapnachura-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655cfad2dd5f8f298cb8646",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "স্বপ্নচূড়া-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T19:01:28.460Z",
+    "updatedAt": "2024-05-28T19:03:36.450Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.694009,
+      "lng": 90.480802
+    },
+    "_id": "6655c0362dd5f8f298cb85eb",
+    "name": "Signboard",
+    "buses": [
+      {
+        "_id": "6655e25b6089a7fb20814bf2",
+        "name": "Swapnil",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df506089a7fb20814bd4",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "স্বপ্নীল",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e4246089a7fb20814c08",
+        "name": "Swapnachura-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655cfad2dd5f8f298cb8646",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "স্বপ্নচূড়া-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e939bdab81413f69e5e6",
+        "name": "Rajatrekha",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655e0936089a7fb20814be0",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "রজতরেখা",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e9c1bdab81413f69e5f6",
+        "name": "Gomoti",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8630",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "গোমতী",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T20:11:21.527Z"
+  },
+  {
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "_id": "665637ad7515574558b97218",
+    "name": "Singiar",
+    "buses": [
+      {
+        "_id": "6655e98abdab81413f69e5f2",
+        "name": "Kaliganga",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655cfad2dd5f8f298cb863d",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "কালিগঙ্গা",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e98abdab81413f69e5f2",
+        "name": "Kaliganga",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655cfad2dd5f8f298cb863d",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "কালিগঙ্গা",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e98abdab81413f69e5f2",
+        "name": "Kaliganga",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655cfad2dd5f8f298cb863d",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "কালিগঙ্গা",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T19:59:41.160Z",
+    "updatedAt": "2024-05-28T20:01:43.588Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.542923,
+      "lng": 90.29608
+    },
+    "_id": "6655c0362dd5f8f298cb85ec",
+    "name": "Srinagar",
+    "buses": [
+      {
+        "_id": "6655e4796089a7fb20814c0c",
+        "name": "Arial",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8637",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "আড়িয়াল",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T19:17:44.705Z"
+  },
+  {
+    "location": {
+      "lat": 23.7196972,
+      "lng": 90.4905236
+    },
+    "_id": "665621dc7515574558b96f55",
+    "name": "Stuff Quater",
+    "buses": [
+      {
+        "_id": "6655e3196089a7fb20814bfc",
+        "name": "Oitijjo",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655d978965683d47f85270b",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "ঐতিহ্য",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T18:26:36.307Z",
+    "updatedAt": "2024-05-28T18:28:28.806Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "_id": "665632f67515574558b97192",
+    "name": "Super Market,Munshiganj",
+    "buses": [
+      {
+        "_id": "6655e939bdab81413f69e5e6",
+        "name": "Rajatrekha",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655e0936089a7fb20814be0",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "রজতরেখা",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T19:39:34.292Z",
+    "updatedAt": "2024-05-28T19:40:19.809Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.783781,
+      "lng": 90.378418
+    },
+    "_id": "6655c0362dd5f8f298cb85ed",
+    "name": "Taltola",
+    "buses": [
+      {
+        "_id": "6655e1fd6089a7fb20814bec",
+        "name": "Onirban-1",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df086089a7fb20814bce",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "অনির্বান-১",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e4486089a7fb20814c0a",
+        "name": "Onirban",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8629",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "অনির্বাণ",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T19:10:19.430Z"
+  },
+  {
+    "location": {
+      "lat": 23.721908,
+      "lng": 90.500607
+    },
+    "_id": "6655c0362dd5f8f298cb85ef",
+    "name": "Tarabo",
+    "buses": [
+      {
+        "_id": "6655e8ccbdab81413f69e5e2",
+        "name": "Nongor",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb862d",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "নোঙর",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T19:23:26.132Z"
+  },
+  {
+    "location": {
+      "lat": 23.781666,
+      "lng": 90.352432
+    },
+    "_id": "6655c0362dd5f8f298cb85f0",
+    "name": "Technical",
+    "buses": [
+      {
+        "_id": "6655e2216089a7fb20814bee",
+        "name": "Uttaron",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df236089a7fb20814bd0",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "উত্তরণ",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e28d6089a7fb20814bf6",
+        "name": "Bongshi",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dfa16089a7fb20814bd8",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "বংশী",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e3496089a7fb20814bfe",
+        "name": "Uttoron-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655d934965683d47f852707",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "উত্তরণ-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e974bdab81413f69e5ee",
+        "name": "Turag",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8638",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "তুরাগ",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T19:54:28.659Z"
+  },
+  {
+    "location": {
+      "lat": 23.771801,
+      "lng": 90.389584
+    },
+    "_id": "6655c0362dd5f8f298cb85f1",
+    "name": "Tejgaon",
+    "buses": [
+      {
+        "_id": "6655e1a86089a7fb20814be8",
+        "name": "Ulka-3",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655def06089a7fb20814bcc",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "উল্কা-০৩",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T16:47:13.391Z"
+  },
+  {
+    "location": {
+      "lat": 23.7189757,
+      "lng": 90.424011
+    },
+    "_id": "66561e617515574558b96f30",
+    "name": "Tikatuli",
+    "buses": [
+      {
+        "_id": "6655e2f26089a7fb20814bfa",
+        "name": "Projonmo-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dfea6089a7fb20814bdc",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "প্রজন্ম-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T18:11:45.742Z",
+    "updatedAt": "2024-05-28T18:23:22.478Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.724316,
+      "lng": 90.428608
+    },
+    "_id": "6655c0362dd5f8f298cb85f2",
+    "name": "Titi Para",
+    "buses": [
+      {
+        "_id": "6655e1e46089a7fb20814bea",
+        "name": "Projonmo-1",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dece6089a7fb20814bca",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "প্রজন্ম-১",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T17:02:44.669Z"
+  },
+  {
+    "location": {
+      "lat": 23.882229,
+      "lng": 90.400764
+    },
+    "_id": "6655c0362dd5f8f298cb85f3",
+    "name": "Tongi Bridge",
+    "buses": [
+      {
+        "_id": "6655e1666089a7fb20814be6",
+        "name": "Ulka-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655dea06089a7fb20814bc6",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "উল্কা-০২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T15:52:28.342Z"
+  },
+  {
+    "location": {
+      "lat": 23.90908,
+      "lng": 90.398067
+    },
+    "_id": "6655c0362dd5f8f298cb85ee",
+    "name": "Tongi College Gate",
+    "buses": [],
+    "photos": [],
+    "status": "active"
+  },
+  {
+    "location": {
+      "lat": 23.791946,
+      "lng": 90.424522
+    },
+    "_id": "6655c0362dd5f8f298cb85f4",
+    "name": "Uttar Badda",
+    "buses": [],
+    "photos": [],
+    "status": "active"
+  },
+  {
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "_id": "665638b27515574558b97244",
+    "name": "Vober chor",
+    "buses": [
+      {
+        "_id": "6655e9c1bdab81413f69e5f6",
+        "name": "Gomoti",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655c8cf2dd5f8f298cb8630",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "গোমতী",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T20:04:02.340Z",
+    "updatedAt": "2024-05-28T20:11:21.527Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "_id": "665629297515574558b97013",
+    "name": "Vuighar",
+    "buses": [
+      {
+        "_id": "6655e4246089a7fb20814c08",
+        "name": "Swapnachura-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655cfad2dd5f8f298cb8646",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "স্বপ্নচূড়া-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T18:57:45.597Z",
+    "updatedAt": "2024-05-28T19:03:36.449Z",
+    "__v": 0
+  },
+  {
+    "location": {
+      "lat": 23.739452,
+      "lng": 90.375612
+    },
+    "_id": "6655c0362dd5f8f298cb85f7",
+    "name": "Zigatola",
+    "buses": [
+      {
+        "_id": "6655e23d6089a7fb20814bf0",
+        "name": "Durjoy",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655df3e6089a7fb20814bd2",
+        "status": "active",
+        "decktype": "double",
+        "bnName": "দুর্জয়",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      },
+      {
+        "_id": "6655e98abdab81413f69e5f2",
+        "name": "Kaliganga",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655cfad2dd5f8f298cb863d",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "কালিগঙ্গা",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "updatedAt": "2024-05-28T20:01:43.588Z"
+  },
+  {
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "_id": "66562a6f7515574558b9701b",
+    "name": "Zilla parishad",
+    "buses": [
+      {
+        "_id": "6655e4246089a7fb20814c08",
+        "name": "Swapnachura-2",
+        "busNumber": "",
+        "photos": [],
+        "driver": "6655cfad2dd5f8f298cb8646",
+        "status": "active",
+        "decktype": "single",
+        "bnName": "স্বপ্নচূড়া-২",
+        "DOWN": "03:30",
+        "UP": "06:50"
+      }
+    ],
+    "photos": [],
+    "status": "active",
+    "createdAt": "2024-05-28T19:03:11.089Z",
+    "updatedAt": "2024-05-28T19:03:36.450Z",
+    "__v": 0
+  }
+]

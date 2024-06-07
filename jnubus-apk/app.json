@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "jnubus",
+    "slug": "jnubus",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/jnu.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/jnu.png"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "ahsanulhoqueabir.jnubus"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/jnu.png"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "cec6a207-2a4e-416c-9b07-c155a1430c1a"
+      }
+    },
+    "owner": "ahsanulhoque"
+  }
+}
